@@ -1,6 +1,6 @@
 # Hello, World! 👋
 ## I'm Thavishka Gamage!
-Thavishka is a third-year undergraduate student majoring in computer science at the University of Cincinnati. He is interested in pursuing opportunities in research, co-ops, internships, shadowing and volunteering to create a better world through diverse knowledge in science, technology, engineering, and mathematics
+Thavishka Gamage is a senior undergraduate student majoring in computer science at the University of Cincinnati. Passionate about leveraging knowledge in science, technology, engineering, and mathematics, he thrives on creating innovative solutions and leading transformative projects. He has demonstrated his capabilities through a variety of research, co-op, and internship experiences, gaining hands-on expertise in software development, data analysis, and project management. Believing in continuous learning, he actively seeks growth opportunities through shadowing and volunteering. With a strong foundation in both technical and financial domains, he is dedicated to making a significant impact in the technology and finance industries, guided by a clear vision for leadership and excellence
 ### Programming Languages I Worked With:
 <table width="320px">
     <tbody>
